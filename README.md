@@ -8,6 +8,6 @@ ways that aren't always obvious from the outside. My work has taken me from
 academic research at the University of Washington to some of the most 
 consequential developer tools in the world: GitHub, Atlassian, and Microsoft.
 
-🌐 [jaredbauer.me](https://www.jaredbauer.me)
-📝 [Writing](https://www.jaredbauer.me/blog/)
-📄 [Resume](https://www.jaredbauer.me/resume/jared-bauer-resume.pdf)
+- 🌐 [jaredbauer.me](https://www.jaredbauer.me)
+- 📝 [Writing](https://www.jaredbauer.me/blog/)
+- 📄 [Resume](https://www.jaredbauer.me/resume/jared-bauer-resume.pdf)
