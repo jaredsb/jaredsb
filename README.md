@@ -1,16 +1,13 @@
-### Hi there 👋
+# Jared S. Bauer, PhD
 
-<!--
-**jaredsb/jaredsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+User researcher at the intersection of AI and human behavior.
 
-Here are some ideas to get you started:
+I've spent my career sitting at the intersection of how people work and how 
+technology tries to help them — and increasingly, how AI is changing both in 
+ways that aren't always obvious from the outside. My work has taken me from 
+academic research at the University of Washington to some of the most 
+consequential developer tools in the world: GitHub, Atlassian, and Microsoft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [jaredbauer.me](https://www.jaredbauer.me)
+📝 [Writing](https://www.jaredbauer.me/blog/)
+📄 [Resume](https://www.jaredbauer.me/resume/jared-bauer-resume.pdf)
